@@ -2,8 +2,6 @@
 # 📡 Cálculos Geo
 ### *Herramienta Profesional de Simulación Cartográfica y Propagación de Radioenlaces en Tiempo Real*
 <img width="1904" height="850" alt="Captura de pantalla 2026-08-01 202431" src="https://github.com/user-attachments/assets/efb00274-3aaa-4842-b21f-a391b69d7ffc" />
-[![Enlace del Programa](https://img.shields.io/badge/Acceso%20Web-geocalc.phoenixb.es-70a81c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://geocalc.phoenixb.es)
-[![Contacto Soporte](https://img.shields.io/badge/Contacto-phoenix%40phoenixb.es-c2410c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phoenix@phoenixb.es)
 
 ---
 
@@ -34,6 +32,8 @@ Aquí puedes ver la herramienta en acción, mostrando el análisis interactivo d
 * **Elipsoide de la 1ª Zona de Fresnel**: Visualiza los márgenes de seguridad requeridos en torno a la línea de vista directa (LOS) para evitar pérdidas por difracción u obstrucciones físicas del terreno.
 * **Control Preciso del Enlace**: Modifica dinámicamente frecuencias de operación, alturas de mástiles (origen y destino), ángulos de apertura (amplitud), rumbos (azimut) y alcances radiales máximos.
 * **Gráficas Dinámicas de Relieve**: Explora paso a paso las cotas topográficas y holguras de Fresnel mediante un visor gráfico responsivo e interactivo que sincroniza un marcador dinámico en el mapa para ubicar físicamente cada obstáculo.
+
+<img width="1917" height="867" alt="Captura de pantalla 2026-08-01 202726" src="https://github.com/user-attachments/assets/472a9062-e229-4acc-ba51-782fd0618eaa" />
 
 ---
 
