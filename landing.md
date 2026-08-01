@@ -1,0 +1,63 @@
+# 📡 Cálculos Geo
+### *Herramienta Profesional de Simulación Cartográfica y Propagación de Radioenlaces en Tiempo Real*
+
+[![Enlace del Programa](https://img.shields.io/badge/Acceso%20Web-geocalc.phoenixb.es-70a81c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://geocalc.phoenixb.es)
+[![Contacto Soporte](https://img.shields.io/badge/Contacto-phoenix%40phoenixb.es-c2410c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phoenix@phoenixb.es)
+
+---
+
+## 🌟 ¿Qué es Cálculos Geo?
+
+**Cálculos Geo** es una plataforma interactiva avanzada diseñada para ingenieros, técnicos de telecomunicaciones y planificadores de infraestructura de red. Permite analizar, simular y visualizar con extrema precisión la **propagación de señales electromagnéticas y la viabilidad de radioenlaces** sobre el relieve terrestre real.
+
+Sin requerir complejas configuraciones ni software pesado, la herramienta procesa perfiles topográficos en tiempo real con una **resolución de hasta 30 metros**, ofreciendo un diagnóstico visual inmediato sobre cartografía interactiva de última generación.
+
+---
+
+## 📸 Vista de la Interfaz Profesional
+
+Aquí puedes ver la herramienta en acción, mostrando el análisis interactivo de perfiles topográficos y las simulaciones de cobertura:
+
+![Simulación de Perfil Topográfico e Invasión de Fresnel](doc/screenshots/screenshot_1.png)
+*Análisis detallado de relieve curvado, zona de Fresnel y línea de vista directa (LOS) en el panel de control interactivo.*
+
+![Análisis de Coberturas y Zonas de Sombra](doc/screenshots/screenshot_2.png)
+*Cálculo dinámico de coberturas sectoriales/omnidireccionales y zonas de sombra proyectadas sobre el terreno.*
+
+---
+
+## 🚀 Características Clave
+
+* **Simulación Cartográfica en Entornos Reales**: Modela el comportamiento de tus antenas y estaciones base sobre topografía montañosa, costera o urbana de alta precisión.
+* **Análisis Físico de Curvatura Terrestre**: Calcula de forma automática la deformación geométrica de la Tierra y los efectos de la refracción atmosférica sobre la trayectoria del haz de señal.
+* **Elipsoide de la 1ª Zona de Fresnel**: Visualiza los márgenes de seguridad requeridos en torno a la línea de vista directa (LOS) para evitar pérdidas por difracción u obstrucciones físicas del terreno.
+* **Control Preciso del Enlace**: Modifica dinámicamente frecuencias de operación, alturas de mástiles (origen y destino), ángulos de apertura (amplitud), rumbos (azimut) y alcances radiales máximos.
+* **Gráficas Dinámicas de Relieve**: Explora paso a paso las cotas topográficas y holguras de Fresnel mediante un visor gráfico responsivo e interactivo que sincroniza un marcador dinámico en el mapa para ubicar físicamente cada obstáculo.
+
+---
+
+## 💼 Sectores Destinados y Beneficios
+
+### 📡 Proveedores de Internet Inalámbrico (WISP) y Telecomunicaciones
+* **Planificación Eficiente**: Evalúa la viabilidad de enlaces punto a punto y la ubicación óptima de repetidores antes de desplazarte al terreno.
+* **Ahorro de Costes**: Minimiza los fallos de instalación prediciendo zonas de sombra y obstrucciones electromagnéticas antes de comprar o montar torretas.
+
+### 🗺️ Geografía, Topografía y Cartografía
+* **Análisis de Visibilidad Geográfica**: Simula cuencas visuales y horizontes ópticos en 360° para estudios de impacto ambiental o de relieve.
+
+### 🛡️ Seguridad e Infraestructuras Críticas
+* **Sistemas de Radar y Radioenlaces de Emergencia**: Diseña coberturas fiables para sistemas de comunicación crítica y monitoreo radar en zonas de orografía compleja.
+
+---
+
+## 🔗 Accede a la Herramienta
+
+Comienza a planificar tus enlaces hoy mismo:
+👉 **[geocalc.phoenixb.es](https://geocalc.phoenixb.es)**
+
+---
+
+## 📩 Contacto e Integración Personalizada
+¿Necesitas integrar simulaciones de radioenlace a gran escala, modelos de relieve de mayor resolución o funcionalidades a medida para tu empresa?
+
+Escríbenos a: **[phoenix@phoenixb.es](mailto:phoenix@phoenixb.es)**
