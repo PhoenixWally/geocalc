@@ -17,11 +17,8 @@ Sin requerir complejas configuraciones ni software pesado, la herramienta proces
 
 Aquí puedes ver la herramienta en acción, mostrando el análisis interactivo de perfiles topográficos y las simulaciones de cobertura:
 
-![Simulación de Perfil Topográfico e Invasión de Fresnel](doc/screenshots/screenshot_1.png)
-*Análisis detallado de relieve curvado, zona de Fresnel y línea de vista directa (LOS) en el panel de control interactivo.*
-
-![Análisis de Coberturas y Zonas de Sombra](doc/screenshots/screenshot_2.png)
-*Cálculo dinámico de coberturas sectoriales/omnidireccionales y zonas de sombra proyectadas sobre el terreno.*
+<img width="1904" height="858" alt="Captura de pantalla 2026-08-01 204536" src="https://github.com/user-attachments/assets/6aaed586-936d-4e38-bf69-9183eb706cd6" />
+<img width="1893" height="832" alt="Captura de pantalla 2026-08-01 204525" src="https://github.com/user-attachments/assets/9fdd432a-b7ed-4e18-a1fe-6cec79dffdae" />
 
 ---
 
