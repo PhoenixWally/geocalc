@@ -1,6 +1,7 @@
+
 # 📡 Cálculos Geo
 ### *Herramienta Profesional de Simulación Cartográfica y Propagación de Radioenlaces en Tiempo Real*
-
+<img width="1904" height="850" alt="Captura de pantalla 2026-08-01 202431" src="https://github.com/user-attachments/assets/efb00274-3aaa-4842-b21f-a391b69d7ffc" />
 [![Enlace del Programa](https://img.shields.io/badge/Acceso%20Web-geocalc.phoenixb.es-70a81c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://geocalc.phoenixb.es)
 [![Contacto Soporte](https://img.shields.io/badge/Contacto-phoenix%40phoenixb.es-c2410c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phoenix@phoenixb.es)
 
